@@ -11,7 +11,7 @@ SSN Number - 548-98-9743
 CARD Type -asdasda
 
 SSN Number - 205-70-0003
-CARD Type -x 
+CARD Type -x XCzxc
 
 SSN Number - 436-88-7865
 CARD Type -
