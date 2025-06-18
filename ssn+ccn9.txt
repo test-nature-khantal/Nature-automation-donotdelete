@@ -1,4 +1,4 @@
-sadasdaezdvzSSN Number - 234-34-5026
+SSN Number - 234-34-5026
 CARD Type -
 
 SSN Number - 242-42-4620
@@ -8,17 +8,17 @@ SSN Number - 345-22-5678
 CARD Type -
 
 SSN Number - 548-98-9743
-CARD Type -asdasdasacacddsf
+CARD Type -
 
 SSN Number - 205-70-0003
-CARD Type -x XCzxc
+CARD Type -
 
 SSN Number - 436-88-7865
 CARD Type -
-zxcxzczcz
+
 SSN Number - 477-44-4494
 CARD Type -
-fa
+
 NAME:ABC DEF GHI
 CARD NUMBER:   3566-0020-2036-0505
 CARD TYPE:enRoute
