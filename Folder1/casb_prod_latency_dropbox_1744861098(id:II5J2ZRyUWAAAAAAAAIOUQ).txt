@@ -1,0 +1,1 @@
+Your file abcd.ef was quarantined because it violated company DLP policy/was found to contain malicious content. Please contact your admin at xyz@zscaler.com.
