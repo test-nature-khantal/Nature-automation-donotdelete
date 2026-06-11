@@ -1,0 +1,7 @@
+This file contains DLP sensitive data for testing custom file type detection.
+
+Credit Card: 5105-1051-0510-5100
+SSN: 777-88-9999
+ID Number: ID-123456789
+
+This should trigger a DLP incident when content inspection is enabled.
