@@ -1,0 +1,6 @@
+This file contains non-DLP data for testing custom file type detection.
+
+This is just ordinary text with no sensitive information.
+It has no credit card numbers, SSNs, or account numbers.
+This should NOT trigger a DLP incident when content inspection is enabled.
+However, it should trigger if withoutContentInspection is true (file type match only).

@@ -1,0 +1,5 @@
+This file contains non-DLP data for testing custom file type detection.
+
+Regular content with no sensitive information.
+No credit cards, SSNs, or bank accounts.
+This should not trigger content-based DLP detection.
