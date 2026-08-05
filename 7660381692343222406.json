@@ -1,0 +1,52 @@
+{
+	"transaction": {
+		"transactionId": 7660381692343222406,
+		"userId": 111560,
+		"timestamp": "Thu Jul  9 04:33:43 2026 (GMT)",
+		"userName": "npaul@zslr.onmicrosoft.com",
+		"department": "Service Admin",
+		"ruleName": "Nature-test",
+		"action": "Report Incident Only",
+		"casbTransactionId": 1012481783571511443,
+		"casbSystemId": 12322,
+		"smdlpSystemId": 12313,
+		"applicationCategory": "File",
+		"application": "ONEDRIVE",
+		"fileModification": "Thu Jul  9 04:30:32 2026 (UTC)",
+		"fileModifiedBy": "npaul@zslr.onmicrosoft.com",
+		"fileSharedAt": "",
+		"fileLinkExpiry": "",
+		"fileSharedBy": "",
+		"tenant": "onedrive-new-zslr",
+		"severity": "High Severity",
+		"numberOfCollaborators": 0,
+		"numberOfExternalCollaborators": 0,
+		"numberOfRecipients": 0,
+		"numberOfExternalRecipients": 0,
+		"collaborationScope": "4096",
+		"sender": "",
+		"channelName": "",
+		"fileId": "013VZ7OQTB574AZM7J2VC34Z462SJTM32N",
+		"objectId": "",
+		"objectName": "",
+		"repository": "NA",
+		"bucketName": "",
+		"bucketOwner": "",
+		"curTagName": "",
+		"isCopilotAccessible": "YES",
+		"numberOfDomains": 0
+	},
+	"content": {
+		"fileName": "test10.png",
+		"filePath": "/Nature-test-6july/PNG FILES/Nature_png",
+		"fileSize": 1042869,
+		"documentType": "",
+		"documentSubType": "",
+		"dlpMD5": "None",
+		"hasEmbeddedFile": ""
+	},
+	"dlp": {
+		"totalTriggeredEngines": 0,
+		"totalTriggeredDictionaries": 0
+	}
+}
