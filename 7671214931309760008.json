@@ -1,0 +1,56 @@
+{
+	"transaction": {
+		"transactionId": 7671214931309760008,
+		"casbTenantId": 1567091,
+		"userId": 845616,
+		"timestamp": "Fri Aug  7 09:11:52 2026 (GMT)",
+		"userName": "npaul@zsdemo3.com",
+		"department": "Service Admin",
+		"ruleName": "jira-nature",
+		"action": "Report Incident Only",
+		"casbTransactionId": 36173676544220747,
+		"casbSystemId": 12442,
+		"smdlpSystemId": 12595,
+		"applicationCategory": "ITSM",
+		"application": "JIRA",
+		"fileModification": "Fri Aug  7 09:01:41 2026 (UTC)",
+		"fileModifiedBy": "",
+		"fileSharedAt": "",
+		"fileLinkExpiry": "",
+		"fileSharedBy": "",
+		"tenant": "jira-pshah",
+		"severity": "High Severity",
+		"numberOfCollaborators": 1,
+		"collaborators": [
+			"npaul@zsdemo3.com"
+		],
+		"numberOfExternalCollaborators": 0,
+		"numberOfRecipients": 0,
+		"numberOfExternalRecipients": 0,
+		"collaborationScope": "1024",
+		"sender": "",
+		"channelName": "",
+		"fileId": "22144",
+		"objectId": "",
+		"objectName": "attachment-BUG-1",
+		"repository": "NA",
+		"bucketName": "",
+		"bucketOwner": "",
+		"numberOfDomains": 0,
+		"manualActionMsg": "{}"
+	},
+	"content": {
+		"fileType": "bmp",
+		"fileName": "bmp.5mb.bmp",
+		"filePath": "BUG-1/22144",
+		"fileSize": 525016,
+		"documentType": "Credit Card Image",
+		"documentSubType": "",
+		"dlpMD5": "72886a92260637a32bb23af63bc082dc",
+		"hasEmbeddedFile": ""
+	},
+	"dlp": {
+		"totalTriggeredEngines": 0,
+		"totalTriggeredDictionaries": 0
+	}
+}

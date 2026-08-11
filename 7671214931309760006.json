@@ -1,0 +1,56 @@
+{
+	"transaction": {
+		"transactionId": 7671214931309760006,
+		"casbTenantId": 1567091,
+		"userId": 845616,
+		"timestamp": "Fri Aug  7 09:11:50 2026 (GMT)",
+		"userName": "npaul@zsdemo3.com",
+		"department": "Service Admin",
+		"ruleName": "jira-nature",
+		"action": "Report Incident Only",
+		"casbTransactionId": 36174226300034636,
+		"casbSystemId": 12442,
+		"smdlpSystemId": 12595,
+		"applicationCategory": "ITSM",
+		"application": "JIRA",
+		"fileModification": "Fri Aug  7 09:01:41 2026 (UTC)",
+		"fileModifiedBy": "",
+		"fileSharedAt": "",
+		"fileLinkExpiry": "",
+		"fileSharedBy": "",
+		"tenant": "jira-pshah",
+		"severity": "High Severity",
+		"numberOfCollaborators": 1,
+		"collaborators": [
+			"npaul@zsdemo3.com"
+		],
+		"numberOfExternalCollaborators": 0,
+		"numberOfRecipients": 0,
+		"numberOfExternalRecipients": 0,
+		"collaborationScope": "1024",
+		"sender": "",
+		"channelName": "",
+		"fileId": "22143",
+		"objectId": "",
+		"objectName": "attachment-BUG-1",
+		"repository": "NA",
+		"bucketName": "",
+		"bucketOwner": "",
+		"numberOfDomains": 0,
+		"manualActionMsg": "{}"
+	},
+	"content": {
+		"fileType": "fh",
+		"fileName": "christma (2).fh4",
+		"filePath": "BUG-1/22143",
+		"fileSize": 25149,
+		"documentType": "",
+		"documentSubType": "",
+		"dlpMD5": "None",
+		"hasEmbeddedFile": ""
+	},
+	"dlp": {
+		"totalTriggeredEngines": 0,
+		"totalTriggeredDictionaries": 0
+	}
+}
