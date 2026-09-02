@@ -1,0 +1,10 @@
+This is a test file for GitHub deletion testing.
+Created for automation testing purposes.
+Test ID: ZS-48495
+Timestamp: 2026-09-01
+
+This file contains no sensitive data.
+It is used to verify file deletion events in CASB.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
