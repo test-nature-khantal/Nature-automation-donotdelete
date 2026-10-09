@@ -1,0 +1,58 @@
+{
+	"transaction": {
+		"transactionId": 7680474696112408754,
+		"casbTenantId": 2521703,
+		"userId": 434329,
+		"timestamp": "Tue Sep  1 08:04:27 2026 (GMT)",
+		"userName": "npaul@zslr.onmicrosoft.com",
+		"department": "Service Admin",
+		"ruleName": "od-zslr-new-mp3",
+		"action": "Report Incident Only",
+		"casbTransactionId": 36166256996702458,
+		"casbSystemId": 12352,
+		"smdlpSystemId": 12415,
+		"applicationCategory": "File",
+		"application": "ONEDRIVE",
+		"fileModification": "Mon Aug 31 16:12:52 2026 (UTC)",
+		"fileModifiedBy": "npaul@zslr.onmicrosoft.com",
+		"fileSharedAt": "Tue Sep  1 08:02:51 2026 (UTC)",
+		"fileLinkExpiry": "",
+		"fileSharedBy": "npaul@zslr.onmicrosoft.com",
+		"tenant": "od-zslr-new",
+		"severity": "High Severity",
+		"numberOfCollaborators": 0,
+		"numberOfExternalCollaborators": 1,
+		"externalCollaborators": [
+			"testdlp2022jun@gmail.com"
+		],
+		"numberOfRecipients": 0,
+		"numberOfExternalRecipients": 0,
+		"collaborationScope": "128",
+		"sender": "",
+		"channelName": "",
+		"fileId": "013VZ7OQX5UQ6EMR3E2RAYED663DESUAEN",
+		"objectId": "",
+		"objectName": "",
+		"repository": "NA",
+		"bucketName": "",
+		"bucketOwner": "",
+		"curTagName": "",
+		"isCopilotAccessible": "YES",
+		"numberOfDomains": 0,
+		"manualActionMsg": "{}"
+	},
+	"content": {
+		"fileType": "mpc",
+		"fileName": "Brass-CS80 Inset-046 Bb1.mpc",
+		"filePath": "/err",
+		"fileSize": 29600,
+		"documentType": "",
+		"documentSubType": "",
+		"dlpMD5": "08e5209ab43c158db99f4f7624981609",
+		"hasEmbeddedFile": ""
+	},
+	"dlp": {
+		"totalTriggeredEngines": 0,
+		"totalTriggeredDictionaries": 0
+	}
+}
