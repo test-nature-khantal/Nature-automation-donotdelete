@@ -1,0 +1,85 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 1002 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+(Data Classification Review) Tj
+0 -16 Td
+(Sample test data generated from the SQL schema and Zoom transcript.) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(Category - Value) Tj
+0 -16 Td
+(Project - PRJ123) Tj
+0 -16 Td
+(Contact - CON-4567) Tj
+0 -16 Td
+(Control - CT_890123) Tj
+0 -16 Td
+(Policy - PIDAB123456) Tj
+0 -16 Td
+(Customer - CID-US-12345) Tj
+0 -16 Td
+(Project Identifier - PJ_IN_987654) Tj
+0 -16 Td
+(Project - PRJ-ENG-123) Tj
+0 -16 Td
+(Contact - CON_HR_456789) Tj
+0 -16 Td
+(Control - CTAA1234) Tj
+0 -16 Td
+(Policy - PID-UK-12345678) Tj
+0 -16 Td
+(Customer - CID_FIN_123-45) Tj
+0 -16 Td
+(Project Identifier - PJ-US_123456_7890) Tj
+0 -16 Td
+(Project - PRJ12345678) Tj
+0 -16 Td
+(Contact - CON-ABCD-999) Tj
+0 -16 Td
+(Control - CT_ZS_100200) Tj
+0 -16 Td
+(Location - BENGALURU12345) Tj
+0 -16 Td
+(Location - bengaluru54321) Tj
+0 -16 Td
+(Location - Bengaluru00000) Tj
+0 -16 Td
+(Location - BeNgAlUrU99999) Tj
+0 -16 Td
+(Location - BENgaluru11111) Tj
+0 -16 Td
+(Location - bEnGaLuRu22222) Tj
+0 -16 Td
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1365
+%%EOF
